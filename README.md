@@ -8,4 +8,4 @@ C++ | C# | Reverse Engineering
 - 🔧 **Reverse Engineering**
 
 ## 🎶 *Spotify*:
-[Check out my Spotify](https://open.spotify.com/user/31mxxwbe3z2vubrftacaqd5zkrpa?si=d746ded9529e4d80)
+[Spotify](https://open.spotify.com/user/31mxxwbe3z2vubrftacaqd5zkrpa?si=d746ded9529e4d80)
